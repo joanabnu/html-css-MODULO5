@@ -1,7 +1,10 @@
-div.conteiner{
+div.conteine{
     background-color: bisque;
+    display: flex;
+   
 }
 div.itens{
  background-color: aqua;
  border: 2px solid black;
+  flex: auto;
 }
