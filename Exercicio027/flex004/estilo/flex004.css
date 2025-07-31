@@ -1,10 +1,12 @@
 h1{
     text-align: center;
     font-size: 3em;
-    padding: 10px;
+    padding: 20px;
     background: linear-gradient(rgb(216, 223, 157), #eb9f3c) top center;
     border: 3px solid rgb(19, 19, 18);
     width: 50%;
+    margin: 0 auto;
+  
 }
 div.conteine {
   background-color: bisque;
