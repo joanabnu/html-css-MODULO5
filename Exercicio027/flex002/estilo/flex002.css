@@ -10,3 +10,40 @@ div.itens{
  text-align: center;
 padding: 10px;
 }
+div.conteine2{
+    background-color: rgb(240, 138, 13);
+    display: flex;
+    flex-direction: column;
+   
+}
+div.itens2{
+ background-color: rgb(194, 223, 35);
+ border: 2px solid black;
+ text-align: center;
+padding: 10px;
+}
+div.conteine3{
+    background-color: rgb(233, 104, 29);
+    display: flex;
+    flex-direction: row;
+   
+}
+div.itens3{
+ background-color: rgb(163, 40, 201);
+ border: 2px solid black;
+ text-align: center;
+padding: 10px;
+}
+
+div.conteine4{
+    background-color: rgb(78, 23, 231);
+    display: flex;
+    flex-direction: row-reverse;
+   
+}
+div.itens4{
+ background-color: rgb(194, 223, 35);
+ border: 2px solid black;
+ text-align: center;
+padding: 10px;
+}
