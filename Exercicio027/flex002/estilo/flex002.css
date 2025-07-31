@@ -2,6 +2,7 @@ div.conteine{
     background-color: bisque;
     display: flex;
     flex-direction: column-reverse;
+
    
 }
 div.itens{
@@ -9,6 +10,7 @@ div.itens{
  border: 2px solid black;
  text-align: center;
 padding: 10px;
+
 }
 div.conteine2{
     background-color: rgb(240, 138, 13);
@@ -33,6 +35,7 @@ div.itens3{
  border: 2px solid black;
  text-align: center;
 padding: 10px;
+flex: auto;
 }
 
 div.conteine4{
@@ -46,4 +49,5 @@ div.itens4{
  border: 2px solid black;
  text-align: center;
 padding: 10px;
+flex: auto;
 }

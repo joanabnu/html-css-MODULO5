@@ -1,0 +1,48 @@
+div.conteine {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column-reverse;
+}
+div.itens {
+  background-color: lightskyblue;
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+div.conteine2 {
+  background-color: rgb(240, 138, 13);
+  display: flex;
+  flex-direction: column;
+}
+div.itens2 {
+  background-color: rgb(194, 223, 35);
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+div.conteine3 {
+  background-color: rgb(233, 104, 29);
+  display: flex;
+  flex-flow: row wrap;
+}
+div.itens3 {
+  background-color: rgb(163, 40, 201);
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+  flex: auto;
+  
+}
+
+div.conteine4 {
+  background-color: rgb(36, 190, 22);
+  display: flex; 
+ flex-flow: row wrap-reverse;
+}
+div.itens4 {
+  background-color: rgb(13, 207, 165);
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+  flex: auto;
+}
