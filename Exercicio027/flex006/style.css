@@ -1,0 +1,14 @@
+div.conteine{
+    background-color: bisque;
+    display: flex;
+    align-items: stretch;
+    flex-flow: row wrap;
+    height: 400px;
+   
+}
+div.itens{
+ background-color: lightskyblue;
+ border: 2px solid black;
+ text-align: center;
+ padding: 40px;
+}
