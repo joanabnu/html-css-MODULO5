@@ -1,9 +1,9 @@
 div.conteine{
     background-color: rgb(206, 133, 31);
     display: flex;
-    height: 400px;
-    flex-flow: row wrap;
-    align-items: flex-start;
+   align-items: flex-start;
+   height: 400px;
+   flex-flow: row wrap;
    
 }
 div.itens{
@@ -13,24 +13,23 @@ div.itens{
  padding: 20px;
 }
 div#i1{
- 
+
 }
 div#i2{
-    align-self: auto;
+   align-self: auto;
 }
 div#i3{
     align-self: flex-end;
 }
 div#i4{
-   
+  
 }
 div#i5{
    align-self: center;
 }
 div#i6{
-   align-self: flex-start;
+    
 }
 div#i7{
-    align-self: stretch;
-   
+  align-self: stretch;
 }
