@@ -1,0 +1,26 @@
+div.conteine{
+    background-color: rgb(206, 133, 31);
+    display: flex;
+   flex-flow: row nowrap;
+   
+}
+div.itens{
+ background-color: lightskyblue;
+ border: 2px solid black;
+ text-align: center;
+ flex-basis: 200px;
+
+}
+div#cxA{
+    flex-shrink: 1;
+    flex-grow: 0;
+}
+div#cxB{
+    flex-shrink: 1;
+    flex-grow: 2;
+}
+div#cxC{
+    flex-shrink: 1;
+    flex-grow: 4;
+}
+
