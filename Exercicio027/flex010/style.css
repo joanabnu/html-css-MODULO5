@@ -1,0 +1,15 @@
+div.conteine{
+    background-color: rgb(206, 133, 31);
+    display: flex;
+   flex-flow: row nowrap;
+   
+}
+div.itens{
+ background-color: lightskyblue;
+ border: 2px solid black;
+ text-align: center;
+flex-basis: 250px;
+ flex-shrink: 1;
+ flex-grow: 1;
+}
+
