@@ -1,0 +1,25 @@
+div.conteine{
+    background-color: rgb(206, 133, 31);
+    display: flex;
+   flex-flow: row nowrap;
+   
+}
+div.itens{
+ background-color: lightskyblue;
+ border: 2px solid black;
+ text-align: center;
+
+
+}
+div#cxA{
+     flex: 1 0 200px;
+}
+div#cxB{
+    
+     flex: 2 1 150px ;
+}
+div#cxC{
+  
+    flex: 4 1 auto;
+}
+
