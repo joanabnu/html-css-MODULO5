@@ -23,6 +23,7 @@ header{
 header > h1{
     border: 1px dotted black;
     flex-basis: 0 0 200px;
+    text-shadow: 4px 4px 0px rgb(90, 88, 88);
 }
 header > nav{
     border: 1px dotted black;
