@@ -11,13 +11,8 @@
 .caixa2{
     background-color: aquamarine;
     grid-area: 2 / 1 / 4 / 3;
-   
-
 }
 .caixa3{
     background-color: cadetblue;
-    grid-row: 2/-1;
-    grid-column: 3/-1;
     grid-area: 2 / 3 /-1 /-1 ;
-
 }
